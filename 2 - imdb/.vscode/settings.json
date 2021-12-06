@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#707602",
+    "titleBar.activeBackground": "#707602",
+    "statusBar.background": "#707602"
+  },
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
